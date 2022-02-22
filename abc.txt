@@ -1,2 +1,6 @@
 This is first file.
+<<<<<<< HEAD
 Edited in master.
+=======
+Modified in branch 2.
+>>>>>>> branch2
